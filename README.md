@@ -1,5 +1,5 @@
-# Survey on China’s per capita GDP exceeding US$20,000
-中国超2万美元人均GDP调查：
+# Survey on China’s per capita GDP exceeding US$20,000 (2023 version)
+中国超2万美元人均GDP调查（2023版）：
 
 中国（含港澳台）人均GDP超2万美元人数：26466.97万人
 
